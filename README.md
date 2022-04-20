@@ -15,6 +15,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
   7. Seborrheic keratosis
   8. Squamous cell carcinoma
   9. Vascular lesion
+
 NOTE: You don't have to use any pre-trained model using Transfer learning. All the model building process should be based on a custom model.
 
 ## General Information
